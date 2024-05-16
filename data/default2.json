@@ -1,0 +1,26 @@
+[
+    {
+        "name": "st",
+        "surname": "tstd",
+        "date_of_birth": "23.03.2000",
+        "zodiac_sign": "ad"
+    },
+    {
+        "name": "test",
+        "surname": "testd",
+        "date_of_birth": "23.02.2000",
+        "zodiac_sign": "asd"
+    },
+    {
+        "name": "test",
+        "surname": "testd",
+        "date_of_birth": "23.02.2000",
+        "zodiac_sign": "asd"
+    },
+    {
+        "name": "tet",
+        "surname": "ted",
+        "date_of_birth": "23.05.2000",
+        "zodiac_sign": "sd"
+    }
+]
